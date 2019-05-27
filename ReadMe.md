@@ -1,5 +1,7 @@
 #ReadMe
 
+Preview:https://hs99.host.cs.st-andrews.ac.uk/CS5044_P3/
+
 The deliverable has 6 parts:
 
 1.Report.pdf is the group report;

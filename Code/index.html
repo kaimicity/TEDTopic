@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Top popular topics in TED</title>
+		<link rel="stylesheet" href="plugins/bootstrap.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<script src="https://unpkg.com/d3-simple-slider"></script>
+	</head>
+	<body>
+		<div id="" class="container">
+			<div id="" class="row">
+				<h1 class="head"> Popular topics in <span class="head_emph"><b>TED</b><span>
+							<button type="button" class="btn" id="info">
+								<!-- <span class="glyphicon glyphicon-info-sign"></span> -->
+								<i>i</i>
+							</button>
+				</h1>
+				<div id="infos">
+					<p>1.How to read</p>
+					<p>On the right is the main view of whole visualization, which described top popular topics in TED from 1972 to
+						2017. The centre circle is top 10 viewed main topics, three circles on the round is top popular 3 related topics.
+						The brightness and size of circle based on the number of views, more popular topics with more larger size circle
+						and deeper colour. Years could be filtered by sliding the time slider below.
+
+						The left side provide more details about the topic. The lollipop view show number of talks included in the topic
+						and ranked according number of talks from left to right. Video playlists below show top viewed video playlist
+						rank with URL link.
+					</p>
+					<p>2.How to interact</p>
+					<p>Tooltips could help users explore views details and playlist author by using hover on the topic or playlist
+						users interested in.</p>
+					<p>
+						Filters:
+					</p>
+					<p>
+						• Year filter: Filter about the year placed as a slider at the bottom could be interact with all other views.
+						Users could use year filter have a look at the popular topic information in the year they choose.
+					</p>
+					<p>
+						• Main topic filter: Users could click the topic circle then video playlist on the left would show all the video
+						playlist about the topic and ranked based on the number of views.
+					</p>
+					<p>
+						• Sub relative topic filter: When users click a topic circle, the circle could become larger and enable users
+						drag sub topics around to filter video playlist about main topic and sub topics users chosen.
+					</p>
+					<p>
+						Brush and highlight: when click one of the topics, the relative part on other view could be highlighted.
+					</p>
+					<p>
+						Parameter: “show all” button and “show top 10 button” enable user to choose if have a look at all the video
+						playlist or just focus on top lists
+					</p>
+				</div>
+				<div class="col-lg-4">
+					<div id="lolipop">
+
+					</div>
+					<div class="filter">
+						<div class="form-group" id="listDiv">
+							<label class="label" id="listName">Top 10 video playlist</label>
+							<button id="expand" class="btn">Show All</button>
+							<ol id="videos" class="list">
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div id="vis" class="col-lg-8">
+					<!-- <button type="button" class="btn btn-info" id="info">Info</button> -->
+				</div>
+				<div class="row align-items-center">
+					<div class="col-lg-4 col-sm-4">
+						<p id="value-time"></p>
+					</div>
+					<div class="col-lg-12">
+						<div id="slider-time"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+
+	</body>
+	<script src="plugins/jquery-2.2.3.min.js"></script>
+	<script src="plugins/bootstrap.min.js"></script>
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/d3.interpolate-zoom.v0.js" charset="utf-8"></script>
+	<script src="https://d3js.org/d3-dispatch.v1.min.js"></script>
+	<script src="https://d3js.org/d3-drag.v1.min.js"></script>
+	<script src="js/script.js"></script>
+</html>

@@ -1,0 +1,447 @@
+,year1,tag_name,views,related topic1,view_of_topic1,related topic2,view_of_topic2,related topic3,view_of_topic3
+0,All,3d printing,0,Youth,0,Finance,0,Exploration,0
+1,All,Addiction,16252961,Men,9124163,Health,9124163,Policy,8924475
+2,All,Adventure,65676789,Exploration,28483934,Technology,22783207,Men,21863632
+3,All,Advertising,14946951,Business,7648869,Economics,6542643,Marketing,5694059
+4,All,Africa,748448,History,748448,Inequality,748448,Men,748448
+5,All,Aging,103465052,Health,50940879,Science,45911511,Humanity,35124242
+6,All,Agriculture,44339951,Culture,44339951,Food,25771577,Men,24582523
+7,All,AI,1197413129,Men,718031577,Entertainment,557977309,Brain,422149858
+8,All,AIDS,0,Youth,0,Finance,0,Exploration,0
+9,All,Aircraft,12068024,AI,12068024,Engineering,9535876,Science,8764938
+10,All,Algorithm,39692015,Technology,25858782,Data,21110679,Computers,18070634
+11,All,Alternative energy,41552819,Energy,41552819,Technology,25270311,Science,20083439
+12,All,Alzheimer's,0,Youth,0,Finance,0,Exploration,0
+13,All,Ancient world,23969771,History,18964699,Science,14557104,Men,9846888
+14,All,Animals,144251118,Science,92478240,Men,60380171,Biology,53133829
+15,All,Animation,16224155,Art,9373387,Design,8081733,Film,7184833
+16,All,Antarctica,0,Youth,0,Finance,0,Exploration,0
+17,All,Anthropocene,0,Youth,0,Finance,0,Exploration,0
+18,All,Anthropology,28640621,Humanity,12091422,Science,10602466,Society,8287343
+19,All,Ants,34720081,Plants,28845303,Science,28288611,Men,21665825
+20,All,Apes,3822188,Evolution,3822188,Biology,2148077,Culture,2148077
+21,All,Archaeology,6175767,History,5034001,Ancient world,4336406,Technology,3866608
+22,All,Architecture,85153883,Design,71998615,Cities,34960646,Technology,22467294
+23,All,Art,312490765,AI,118555218,Design,113534354,Men,105150081
+24,All,Arts,1786943,Collaboration,1786943,Social change,1786943,Art,1786943
+25,All,Asia,0,Youth,0,Finance,0,Exploration,0
+26,All,Asteroid,736792,Astronomy,736792,Technology,736792,Nature,736792
+27,All,Astrobiology,0,Youth,0,Finance,0,Exploration,0
+28,All,Astronomy,59592998,Science,46046003,Technology,38066928,Universe,34754213
+29,All,Atheism,14171549,Religion,14171549,Culture,10139778,Science,6814719
+30,All,Augmented reality,4144444,Engineering,4144444,Science,4144444,Men,4144444
+31,All,Autism,160388,Personal growth,160388,Autism spectrum disorder,160388,Social change,160388
+32,All,Autism spectrum disorder,160388,Personal growth,160388,Autism,160388,Social change,160388
+33,All,Bacteria,31522165,Science,21168432,Biology,21008804,Nature,15552470
+34,All,Beauty,87687351,Culture,34559828,Photography,34311688,Art,32805415
+35,All,Bees,13881416,Science,9732433,Insects,8979550,Plants,8487102
+36,All,Behavioral economics,36683948,Economics,36683948,Business,17772507,Psychology,17579164
+37,All,Best of the Web,0,Youth,0,Finance,0,Exploration,0
+38,All,Big bang,22022883,Universe,17051503,Physics,13934041,Science,12220132
+39,All,Big problems,72724388,Men,39727271,Global issues,39246153,Society,32271403
+40,All,Biodiversity,63848634,Diversity,63848634,Science,46530045,Biology,42422117
+41,All,Bioethics,26546828,Science,24200813,Health,13820633,Technology,13573383
+42,All,Biology,278635891,Science,216822411,AI,96281639,Health,80850560
+43,All,Biomechanics,39837722,Science,31423157,Technology,25435579,Biology,24300889
+44,All,Biomimicry,29184926,Design,21883523,Science,19387350,Technology,16825921
+45,All,Bionics,0,Youth,0,Finance,0,Exploration,0
+46,All,Biosphere,7260483,Men,7260483,Environment,7260483,Nature,6316990
+47,All,Biotech,83216570,Science,75674921,Technology,65047252,Biology,50631078
+48,All,Birds,12364891,Biology,8123088,Men,7346978,Science,7008663
+49,All,Blindness,0,Youth,0,Finance,0,Exploration,0
+50,All,Blockchain,1630134,Privacy,1630134,War,1630134,Technology,1630134
+51,All,Body language,83950446,Language,83950446,Psychology,66838244,AI,49481021
+52,All,Books,72259041,Writing,49962207,Culture,42849122,History,26515190
+53,All,Botany,16740177,Science,13459769,Ants,12457084,Plants,12457084
+54,All,Brain,422149858,AI,422149858,Science,260140825,Psychology,159332175
+55,All,Brand,0,Youth,0,Finance,0,Exploration,0
+56,All,Brazil,0,Youth,0,Finance,0,Exploration,0
+57,All,Buddhism,0,Youth,0,Finance,0,Exploration,0
+58,All,Bullying,12922851,Men,8637434,Health,7135203,Children,6034958
+59,All,Business,713495114,AI,248977407,Men,207853061,Culture,183516114
+60,All,Cancer,51783086,Medicine,34679314,Health,33932082,Science,32172474
+61,All,Capitalism,12774384,Economics,10402152,Society,9723343,Business,9646513
+62,All,Cars,24958483,Technology,17228192,Transportation,13008839,Design,11019197
+63,All,Cello,1146756,Men,1146756,Music,1146756,AI,1146756
+64,All,Charter for compassion,3144674,Compassion,3144674,Art,3144674,Religion,2035542
+65,All,Chemistry,38187253,Science,35353764,Technology,22363058,Innovation,21955536
+66,All,Children,253828117,Education,147740402,Parenting,93359283,Teaching,88595263
+67,All,China,33329472,Global issues,23520582,Business,16304791,Economics,14641492
+68,All,Choice,115948321,Culture,53793876,AI,49159529,Decision-making,48105621
+69,All,Christianity,0,Youth,0,Finance,0,Exploration,0
+70,All,Cities,127374856,Design,61214885,Technology,42819126,Men,40836859
+71,All,Climate change,85829268,Men,56730098,Environment,53562294,Science,45103888
+72,All,Cloud,1904625,Brain,1904625,Evolution,1904625,Future,1904625
+73,All,Code,43489820,Technology,35990704,Education,28282111,Computers,26703056
+74,All,Cognitive science,136880977,Science,136880977,AI,115663593,Brain,107641411
+75,All,Collaboration,205942146,Technology,83377669,Men,69787924,Innovation,64811574
+76,All,Comedy,132965484,Humor,132965484,Men,81805366,AI,77217635
+77,All,Communication,306367051,Men,116140649,Technology,99711500,Society,76357439
+78,All,Community,172197591,Society,72698440,Men,61841741,Social change,55837780
+79,All,Compassion,49476678,Men,18906698,Health,18161724,Social change,18048245
+80,All,Complexity,26047627,Technology,13034088,Science,12969819,Computers,8696978
+81,All,Composing,12245530,Music,8465049,Creativity,7929451,Art,7206918
+82,All,Computers,147137224,Technology,110676004,Design,59838234,Innovation,42774409
+83,All,Conducting,19637860,Music,19637860,Men,16803739,AI,16803739
+84,All,Consciousness,65508274,Brain,60503306,AI,60503306,Science,57659424
+85,All,Conservation,14584882,Science,13593171,Men,12876476,Environment,12876476
+86,All,Consumerism,36674694,Business,22828745,Culture,18121442,Economics,14555983
+87,All,Cooperation,0,Youth,0,Finance,0,Exploration,0
+88,All,Coral reefs,0,Youth,0,Finance,0,Exploration,0
+89,All,Corruption,23761266,Global issues,15307047,Men,11232530,Government,7284491
+90,All,Cosmos,28752564,Universe,23241604,Science,21546244,Physics,15919647
+91,All,Creativity,363958591,AI,129416796,Culture,109842970,Design,108192417
+92,All,Crime,72668492,Men,26353966,Global issues,24075016,AI,23571569
+93,All,Criminal Justice,5065384,Society,5065384,Social change,3712670,Big problems,3096721
+94,All,CRISPR,0,Youth,0,Finance,0,Exploration,0
+95,All,Crowdsourcing,10447880,Collaboration,8631851,Technology,5629065,Art,5426878
+96,All,Cryptocurrency,0,Youth,0,Finance,0,Exploration,0
+97,All,Culture,1140122563,AI,320117138,Men,305233244,Global issues,212282089
+98,All,Curiosity,68732317,Science,31397217,Technology,29375492,AI,21451037
+99,All,Dance,98381502,Culture,58359002,Children,46428271,Parenting,46428271
+100,All,Dark matter,17989297,Science,17989297,Physics,16890987,Universe,15290941
+101,All,Data,130409813,Technology,57378180,Society,34612700,Health,28140412
+102,All,Death,68067979,Life,28435580,Humanity,23469572,Health,20331140
+103,All,Debate,0,Youth,0,Finance,0,Exploration,0
+104,All,Decision-making,97393245,Choice,48105621,Person,42688458,AI,40859533
+105,All,Deextinction,6911297,Biology,5101166,Science,4065389,Philosophy,3102172
+106,All,Demo,174707612,Technology,92742804,Men,76954971,Design,74848560
+107,All,Democracy,47432671,Demo,47432671,Politics,41625565,Men,30056459
+108,All,Depression,90342196,Health,83405892,Men,83111023,Mental health,80755704
+109,All,Design,570010651,Technology,321953058,AI,155557533,Men,146230456
+110,All,Development,81147768,Men,81147768,Global development,78643496,Global issues,56538361
+111,All,Dinosaurs,10894674,Science,7611465,Paleontology,6447806,History,4734481
+112,All,Disability,37298373,Science,11330450,Health,10714264,Technology,10223741
+113,All,Disaster relief,17836285,Global issues,7297119,Culture,5794670,Natural disaster,5300411
+114,All,Discovery,14057970,Science,9689081,Exploration,9499506,Innovation,8820906
+115,All,Disease,77862522,Health,63398256,Science,55945912,Medicine,44134272
+116,All,Diversity,66154517,Biodiversity,63848634,Science,46530045,Biology,42422117
+117,All,DNA,0,Youth,0,Finance,0,Exploration,0
+118,All,Driverless cars,3788402,Cars,3788402,Collaboration,3788402,Design,3788402
+119,All,Drones,33462194,Technology,31356202,Robots,25746949,Design,10504852
+120,All,Ebola,10794700,Global issues,7965690,Medicine,5410523,Disease,5277733
+121,All,Ecology,48611588,Science,40854250,Men,36273538,Environment,34852128
+122,All,Economics,249093111,Business,127658624,Global issues,88813044,Men,83074509
+123,All,Education,427425829,Children,147740402,Culture,138582713,Men,109244698
+124,All,Egypt,0,Youth,0,Finance,0,Exploration,0
+125,All,Electricity,0,Youth,0,Finance,0,Exploration,0
+126,All,Emotions,0,Youth,0,Finance,0,Exploration,0
+127,All,Empathy,40209153,Communication,22480695,Men,18661141,Society,17828985
+128,All,Encryption,0,Youth,0,Finance,0,Exploration,0
+129,All,Energy,85975717,Technology,52371106,Science,42676420,Alternative energy,41552819
+130,All,Engineering,134034561,Technology,92898896,Science,86831805,Design,75641621
+131,All,Entertainment,557977309,Men,557977309,AI,557977309,Culture,165744588
+132,All,Entrepreneur,113518629,Business,72656573,Leadership,38360059,Success,36967095
+133,All,Environment,169159374,Men,169159374,Science,81296233,AI,60473211
+134,All,Epidemiology,406904,Genetics,406904,Virus,406904,Global issues,406904
+135,All,Europe,0,Youth,0,Finance,0,Exploration,0
+136,All,Evil,8420456,Culture,8420456,Psychology,8420456,Children,5750573
+137,All,Evolution,136330446,Science,111857915,AI,51699720,Brain,50206456
+138,All,Evolutionary psychology,0,Youth,0,Finance,0,Exploration,0
+139,All,Exercise,0,Youth,0,Finance,0,Exploration,0
+140,All,Exoskeleton,11716432,Technology,11018657,Prosthetics,8431142,Dance,7218049
+141,All,Exploration,132444245,Science,88521128,Technology,73016644,Space,39064029
+142,All,Extraterrestrial life,17279377,Life,17279377,Universe,15378342,Science,14659003
+143,All,Extreme sports,11157117,Sports,11157117,Culture,6448377,Adventure,4708740
+144,All,Failure,36609076,AI,36609076,Success,20597076,Creativity,18069940
+145,All,Faith,46512846,AI,46512846,Religion,32924105,Culture,24844708
+146,All,Family,74293981,Children,32469123,Men,28499058,Humanity,26041092
+147,All,Farming,8693958,Agriculture,7941409,Culture,7941409,Innovation,5868284
+148,All,Fashion,35623266,Culture,22143480,Beauty,22070952,Photography,18973744
+149,All,Fear,71686053,Men,43835302,Communication,40652113,Culture,36555591
+150,All,Feminism,44424310,Men,42259269,Women,40860364,Education,22496240
+151,All,Film,86777245,Men,51624028,AI,43038014,Entertainment,38059133
+152,All,Finance,23006634,Business,21115562,Economics,13741121,Men,10500427
+153,All,Fish,37399211,Science,33324865,Oceans,31795318,Animals,27160975
+154,All,Flight,24432161,Design,21381514,Technology,17267605,Invention,10956071
+155,All,Food,92852895,Culture,50721979,Global issues,34040475,Men,32953971
+156,All,Foreign Policy,0,Youth,0,Finance,0,Exploration,0
+157,All,Forensics,2765518,Science,2059861,Global issues,1740123,AI,1034466
+158,All,Friendship,5220548,Person,5220548,Society,4467999,Humanity,4467999
+159,All,Fungi,0,Youth,0,Finance,0,Exploration,0
+160,All,Funny,3274626,Society,2522077,Person,2183007,Politics,1870652
+161,All,Future,228541978,Technology,141959066,Science,101405593,Innovation,98689133
+162,All,Gaming,49487265,AI,35016741,Men,31761924,Entertainment,28356620
+163,All,Garden,29027701,Science,14937576,Ants,14646424,Plants,14646424
+164,All,Gender,57474713,Men,31425624,Women,30124882,Inequality,20779986
+165,All,Gender equality,13821777,Men,13821777,Gender,13821777,Women,13073329
+166,All,Gender spectrum,1073649,Society,1073649,Poetry,1073649,Art,1073649
+167,All,Genetics,65622425,Science,55655582,Biology,43220974,Technology,27402737
+168,All,Geology,6268742,Science,6268742,Exploration,5281154,Environment,3709653
+169,All,Glacier,4228509,Art,4228509,Adventure,2449829,Exploration,2449829
+170,All,Global commons,0,Youth,0,Finance,0,Exploration,0
+171,All,Global development,78643496,Development,78643496,Men,78643496,Global issues,56145222
+172,All,Global issues,606574639,Culture,212282089,Men,202168773,Politics,123557070
+173,All,Goal-setting,115350304,Men,61257609,Business,53995492,AI,51818824
+174,All,God,0,Youth,0,Finance,0,Exploration,0
+175,All,Google,0,Youth,0,Finance,0,Exploration,0
+176,All,Government,94650589,Men,94650589,Global issues,49228467,Politics,45221112
+177,All,Grammar,1431833,Language,1431833,Writing,1431833,Communication,1431833
+178,All,Graphic design,0,Youth,0,Finance,0,Exploration,0
+179,All,Green,77369445,Men,48015445,Environment,43903633,AI,36116755
+180,All,Guitar,10070889,Music,9589792,Performance,9099192,Live music,7036242
+181,All,Guns,6517256,Violence,5178649,Big problems,4051199,Global issues,3505421
+182,All,Hack,21320830,Technology,14882087,Men,10576901,Design,9713116
+183,All,Happiness,217805438,AI,107934425,Culture,105484399,Psychology,103209090
+184,All,Health,516073368,Men,244221855,Science,224762107,Mental health,174256218
+185,All,Health care,142705298,Health,142705298,Medicine,86291951,Science,68639626
+186,All,Healthcare,0,Youth,0,Finance,0,Exploration,0
+187,All,Hearing,3838440,Technology,3373379,Science,2653863,Disability,2653863
+188,All,Heart health,14526619,Art,14526619,Health,14526619,Health care,9709973
+189,All,History,174429259,Science,76267391,Culture,63515602,Men,57772977
+190,All,HIV,0,Youth,0,Finance,0,Exploration,0
+191,All,Homelessness,0,Youth,0,Finance,0,Exploration,0
+192,All,Human body,0,Youth,0,Finance,0,Exploration,0
+193,All,Human origins,12497327,Science,7744911,Evolution,7472915,Humanity,6455442
+194,All,Humanity,234685680,Society,102505467,Men,79413202,Communication,68321035
+195,All,Humor,239012853,Comedy,132965484,Men,112861004,AI,107305725
+196,All,Identity,163932860,Society,71530589,Humanity,63928355,Men,57711882
+197,All,Illness,85635886,Science,73305454,Health,55116195,AI,52726010
+198,All,Illusion,52626769,AI,42890305,Entertainment,36978676,Men,36978676
+199,All,Immigration,10861629,Men,7557281,Social change,7557281,Government,7557281
+200,All,Inclusion,0,Youth,0,Finance,0,Exploration,0
+201,All,India,22965427,Men,14326827,Global issues,11249005,Technology,8487653
+202,All,Indigenous peoples,0,Youth,0,Finance,0,Exploration,0
+203,All,Industrial design,34201376,Design,34201376,Technology,23074920,Engineering,19080936
+204,All,Inequality,110904756,Men,54354391,Social change,49462682,Society,41549771
+205,All,Infrastructure,50757933,Cities,26813539,Design,26458205,Technology,22520076
+206,All,Innovation,299818100,Technology,165429678,Science,139371854,Design,103735342
+207,All,Insects,41257280,Science,28844291,Biology,17591939,Animals,15614008
+208,All,Intelligence,81183363,AI,35940408,Science,30962251,Brain,29119772
+209,All,Interface design,48431443,Design,48431443,Technology,43277499,Demo,23700280
+210,All,Internet,0,Youth,0,Finance,0,Exploration,0
+211,All,Interview,23302621,Communication,12313057,Personal growth,11752048,Person,11752048
+212,All,Introvert,0,Youth,0,Finance,0,Exploration,0
+213,All,Invention,191439751,Technology,125481184,Design,100584216,Innovation,88194627
+214,All,Investment,30064564,Men,30064564,Business,20211106,Economics,16082007
+215,All,Iran,0,Youth,0,Finance,0,Exploration,0
+216,All,Iraq,12374059,Global issues,10365011,War,7266682,Politics,6666510
+217,All,Islam,0,Youth,0,Finance,0,Exploration,0
+218,All,Jazz,6654436,Music,6654436,Men,5649704,AI,5649704
+219,All,Journalism,57952995,Global issues,21688953,Men,16365220,Politics,14106783
+220,All,Justice system,0,Youth,0,Finance,0,Exploration,0
+221,All,Language,176680355,Body language,83950446,AI,70628997,Psychology,69736914
+222,All,Latin America,0,Youth,0,Finance,0,Exploration,0
+223,All,Law,50044172,Men,24289863,Global issues,22794235,Government,18429130
+224,All,Leadership,220225863,Business,115646465,Men,97693459,Society,70271004
+225,All,LGBT,0,Youth,0,Finance,0,Exploration,0
+226,All,Library,19498054,Technology,9913842,Culture,9688398,AI,7765535
+227,All,Life,209377436,Science,74903965,Work,57298242,Men,51329119
+228,All,Literature,26690389,Culture,14977008,AI,13890526,Men,10153371
+229,All,Live music,98180106,Music,98180106,Performance,68587036,Men,67313685
+230,All,Love,102461620,Culture,63453418,Relationships,50305647,Men,26690511
+231,All,MacArthur grant,0,Youth,0,Finance,0,Exploration,0
+232,All,Machine learning,22754415,Technology,19122327,Future,15554979,Intelligence,14658012
+233,All,Magic,70263903,AI,46751493,Entertainment,46751493,Men,46751493
+234,All,Manufacturing,8738012,Technology,8738012,Innovation,8738012,Engineering,7585186
+235,All,Map,17454559,Technology,7095971,Design,5729087,Cities,5686661
+236,All,Marine biology,0,Youth,0,Finance,0,Exploration,0
+237,All,Marketing,38307071,Business,26982779,AI,18010633,Culture,16413073
+238,All,Markets,0,Youth,0,Finance,0,Exploration,0
+239,All,Mars,0,Youth,0,Finance,0,Exploration,0
+240,All,Materials,43424321,Design,32871203,Technology,26750016,Innovation,20968291
+241,All,Math,102554865,Science,38370715,Men,30430841,Physics,28041586
+242,All,Media,136210264,Social media,71171324,Technology,55635565,Men,43241360
+243,All,Medical imaging,15849843,Aging,15849843,Science,15849843,Medical research,13668806
+244,All,Medical research,109748544,Science,89457923,Health,84578465,Medicine,65485129
+245,All,Medicine,205643541,Health,148757238,Science,118641026,Health care,86291951
+246,All,Meditation,21842713,Mind,18367099,Mindfulness,18367099,Health,15919096
+247,All,Meme,5367597,Culture,3736002,AI,3362922,Religion,2636676
+248,All,Memory,51631388,AI,44122245,Science,43359570,Brain,42322540
+249,All,Men,1205476516,AI,718031577,Entertainment,557977309,Culture,305233244
+250,All,Mental health,174256218,Men,174256218,Health,174256218,AI,96654542
+251,All,Microbes,14713851,Science,14713851,Biology,11752852,Microbiology,11752852
+252,All,Microbiology,31413630,Biology,31413630,Science,28432801,Health,12500965
+253,All,Microfinance,3130692,Finance,3130692,Business,2584318,Invention,1900130
+254,All,Microsoft,7114588,Technology,7114588,Visualizations,6808109,Virtual reality,5055635
+255,All,Middle East,0,Youth,0,Finance,0,Exploration,0
+256,All,Military,25716725,War,14221290,Leadership,9865873,Global issues,9691354
+257,All,Mind,179685316,AI,140797949,Brain,133219045,Science,117558987
+258,All,Mindfulness,20165074,Mind,20165074,Meditation,18367099,Health,14962988
+259,All,Mining,3374722,Technology,3374722,Energy,1761790,Space,1761790
+260,All,Mission blue,17369035,Oceans,17369035,Science,15519865,Fish,13223595
+261,All,Mobility,7901704,Society,6272218,Potential,6272218,Economics,6272218
+262,All,Molecular biology,36588556,Science,36588556,Biology,36588556,Medical research,24158334
+263,All,Money,45084458,Business,32303794,Economics,23515982,Global issues,13892131
+264,All,Monkeys,10061733,Science,10061733,Animals,5359776,Neuroscience,5008623
+265,All,Moon,0,Youth,0,Finance,0,Exploration,0
+266,All,Morality,32968741,Science,19405859,AI,15168781,Psychology,12160858
+267,All,Motivation,181000337,AI,94252163,Business,86398136,Men,68372034
+268,All,Movies,5621334,Art,5621334,Men,4362783,Communication,4362783
+269,All,Museums,9550115,Art,7583545,Design,5004765,History,4407217
+270,All,Music,201466729,AI,126832043,Men,124853706,Entertainment,122642144
+271,All,Nanoscale,34602792,Science,25323276,Biology,19838075,Technology,11348577
+272,All,Narcotics,16718810,Culture,9916103,Policy,9805163,Addiction,7128798
+273,All,NASA,0,Youth,0,Finance,0,Exploration,0
+274,All,Natural disaster,8358320,Disaster relief,5300411,Technology,3608255,Men,3057909
+275,All,Natural resources,13088839,Men,13088839,Resources,13088839,Environment,12337558
+276,All,Nature,142398845,Science,88128733,Men,66690016,Biology,53699004
+277,All,Neurology,0,Youth,0,Finance,0,Exploration,0
+278,All,Neuroscience,158871860,Science,158871860,AI,131287410,Brain,122874259
+279,All,New York,0,Youth,0,Finance,0,Exploration,0
+280,All,News,19397605,Global issues,12730644,Politics,12317790,Men,10478325
+281,All,Nobel prize,0,Youth,0,Finance,0,Exploration,0
+282,All,Nonviolence,799308,Protests,799308,War,799308,Peace,799308
+283,All,Novel,5648414,Technology,3874262,Collaboration,3874262,Science,3874262
+284,All,Nuclear energy,13592689,Energy,13592689,Technology,10417084,Science,10080354
+285,All,Nuclear weapons,3947148,Energy,3301819,Men,3301819,Global issues,2670014
+286,All,Obesity,32772873,Health,27505698,Science,14911207,Food,14156197
+287,All,Oceans,83781738,Science,51403242,Animals,34210168,Men,33502031
+288,All,Oil,3033595,Environment,3033595,Men,3033595,Oceans,1814556
+289,All,Online video,50782253,Men,27779449,Entertainment,27779449,AI,27779449
+290,All,Open-source,52968167,Technology,40211584,Design,26891965,Demo,19626126
+291,All,Opioids,0,Youth,0,Finance,0,Exploration,0
+292,All,Origami,2509113,Art,2135881,Design,2135881,Math,2135881
+293,All,Pain,22899550,AI,22899550,Art,11096376,Health,9196115
+294,All,Painting,8778535,Pain,8778535,Art,8778535,AI,8778535
+295,All,Paleontology,11370913,Science,9697618,History,6502710,Dinosaurs,6447806
+296,All,Pandemic,2473625,Disease,2473625,Public health,2473625,Science,2473625
+297,All,Parenting,115351823,Children,93359283,Culture,69197700,Education,62580001
+298,All,Peace,73457364,Global issues,45224624,Culture,26930618,War,24775568
+299,All,Performance,219732543,Men,152014086,AI,150469596,Entertainment,147177721
+300,All,Performance art,31517349,Performance,31517349,Art,31517349,Men,20972457
+301,All,Person,209602783,Personal growth,161048235,AI,70446896,Men,64432440
+302,All,Personal growth,161048235,Person,161048235,Motivation,50290243,Society,44728769
+303,All,Personality,57167571,Person,57167571,AI,31230235,Men,26790667
+304,All,Pharmaceuticals,23634464,Medicine,22947298,Health,22737477,Health care,19609707
+305,All,Philanthropy,38213925,Business,22765943,Global issues,16013748,Men,13722046
+306,All,Philosophy,102561898,Science,43927929,Culture,38293849,AI,32213210
+307,All,Photography,147604880,Culture,56928854,Art,40656888,Beauty,34311688
+308,All,Physics,102988629,Science,87213951,Technology,41667895,Universe,41287657
+309,All,Physiology,36951629,Science,36951629,Biology,26732119,Biotech,20212766
+310,All,Piano,12377980,Music,12377980,Performance,9760848,Men,8204820
+311,All,Planets,943493,Astronomy,943493,Technology,943493,Environment,943493
+312,All,Plants,28845303,Ants,28845303,Science,24719716,Environment,19359942
+313,All,Plastic,9464293,Men,5903024,Environment,5903024,Green,4370135
+314,All,Play,26255230,Design,19250021,Men,11996846,Children,11539380
+315,All,Poetry,89949000,Men,55688277,AI,53577436,Entertainment,46685950
+316,All,Policy,63608624,Men,41573251,Society,36587004,Global issues,35014915
+317,All,Politics,217732118,Global issues,123557070,Men,99693679,Culture,86618549
+318,All,Pollution,36729587,Men,28833757,Environment,28220802,Science,19241331
+319,All,Population,13690515,Global issues,7635149,Culture,6685720,Men,6074752
+320,All,Potential,122351264,Innovation,58385618,Business,55970998,Men,52687447
+321,All,Poverty,54933319,Global issues,30689341,Men,24980395,Culture,12922452
+322,All,Prediction,16181532,Technology,10295719,Future,9395521,Computers,7475709
+323,All,Pregnancy,13171795,Science,11879614,Medical research,9673755,Health,7170924
+324,All,Presentation,17799796,Science,7480464,Global issues,7290472,Data,6403327
+325,All,Primates,7093962,Animals,5315611,Science,4199686,Biology,3740099
+326,All,Prison,36021135,Culture,22065588,Crime,18044220,Global issues,12766810
+327,All,Privacy,25725237,Technology,16666951,Business,13887347,Economics,9065984
+328,All,Product design,65650698,Design,65650698,Technology,43906390,Innovation,41225929
+329,All,Productivity,76895832,Work,65713963,Business,43488307,Mind,40918252
+330,All,Programming,27017130,Computers,18495564,Technology,18395381,Innovation,14980999
+331,All,Prosthetics,29008601,Technology,21725266,Design,11114519,Health,8457746
+332,All,Protests,9641169,Global issues,5395671,Politics,4247007,Media,3770303
+333,All,Psychology,428581152,AI,213938612,Culture,206693561,Business,165165927
+334,All,PTSD,0,Youth,0,Finance,0,Exploration,0
+335,All,Public health,42783033,Health,42783033,Medicine,22368264,Health care,20935064
+336,All,Public spaces,19070321,Space,19070321,Community,17235465,Cities,12438165
+337,All,Quantum physics,0,Youth,0,Finance,0,Exploration,0
+338,All,Race,45098897,Inequality,25529294,Culture,21582539,Society,16195260
+339,All,Refugees,9796773,Communication,7493640,Community,7259350,Society,6943873
+340,All,Relationships,123348691,Culture,53951925,Love,50305647,Society,40061801
+341,All,Religion,86189459,Culture,46046117,AI,42170842,Faith,32924105
+342,All,Resources,17534459,Men,14048121,Environment,13296840,Natural resources,13088839
+343,All,Rivers,0,Youth,0,Finance,0,Exploration,0
+344,All,Robots,89570272,Technology,79673991,Science,35697660,AI,29588683
+345,All,Rocket science,9043693,Science,9043693,Engineering,6913981,Technology,6651990
+346,All,Sanitation,14649432,Health,8150755,Men,6647660,Global issues,6332987
+347,All,Science,898454459,AI,371763508,Technology,327664057,Brain,260140825
+348,All,Science and art,56070305,Art,56070305,Science,56070305,Design,25403958
+349,All,Science Fiction,0,Youth,0,Finance,0,Exploration,0
+350,All,Security,37443491,Technology,24108308,War,16936143,Society,14760035
+351,All,Self,165796344,Psychology,118208817,AI,81616984,Culture,67819706
+352,All,Senses,0,Youth,0,Finance,0,Exploration,0
+353,All,Sex,96588563,Culture,59092291,Humor,41762656,Relationships,35474741
+354,All,Sexual violence,5273540,Sex,5273540,Violence,5273540,Communication,5273540
+355,All,Shopping,9411314,Economics,6678085,Business,6454420,Men,4662736
+356,All,Sight,25438310,Science,14594314,Brain,11975839,AI,11975839
+357,All,Simplicity,19500723,Design,13027632,Men,6141327,Entertainment,6141327
+358,All,Singer,10278657,Music,9385845,Performance,8117290,Live music,4794930
+359,All,Skateboarding,777998,Innovation,777998,Collaboration,777998,Open-source,777998
+360,All,Slavery,713294,Self,713294,Innovation,713294,History,713294
+361,All,Sleep,5908305,Health,5908305,Science,5908305,Neuroscience,5164132
+362,All,Smell,7846321,Design,3403563,Technology,2931889,Creativity,1857650
+363,All,Social change,299754334,Men,139100902,Society,111495820,Culture,84608898
+364,All,Social media,71171324,Media,71171324,Technology,39945973,Communication,31992525
+365,All,Social science,0,Youth,0,Finance,0,Exploration,0
+366,All,Society,291195461,Social change,111495820,Humanity,102505467,Men,96782768
+367,All,Sociology,47153015,AI,30766019,Psychology,26930521,Science,26055086
+368,All,Software,63884131,War,63884131,Technology,40810435,Men,27790107
+369,All,Solar energy,16134035,Energy,16134035,Technology,14992585,Innovation,12358784
+370,All,Solar system,19444832,Space,15233761,Technology,15005049,Science,14664853
+371,All,Sound,42389224,Culture,25581985,Speech,21543902,Technology,8806964
+372,All,South America,0,Youth,0,Finance,0,Exploration,0
+373,All,Space,95920269,Technology,52703878,Science,44803265,Exploration,39064029
+374,All,Speech,41619833,Sound,21543902,Culture,20604025,Brain,13910320
+375,All,Spoken word,28588831,Poetry,19421473,Men,12524891,Children,6408617
+376,All,Sports,54114162,Culture,19852720,Technology,16654973,Men,15850482
+377,All,Start-up,0,Youth,0,Finance,0,Exploration,0
+378,All,State-building,3763873,Politics,3763873,Global issues,2493851,Government,2109719
+379,All,Statistics,53320979,Global issues,29562166,Visualizations,25027819,Men,24483989
+380,All,Stigma,0,Youth,0,Finance,0,Exploration,0
+381,All,Storytelling,192387888,Culture,74663132,AI,68463114,Men,64441516
+382,All,Street art,3572863,Art,3572863,Community,2613407,Language,1378269
+383,All,String theory,0,Youth,0,Finance,0,Exploration,0
+384,All,Student,15643443,Education,15643443,Teaching,14609703,Culture,7883998
+385,All,Submarine,13539694,Oceans,13539694,Adventure,7070821,Science,6824485
+386,All,Success,168561484,Business,122467822,AI,78502382,Psychology,71049815
+387,All,Suicide,27801235,Depression,15310314,Men,15310314,Mental health,15310314
+388,All,Sun,0,Youth,0,Finance,0,Exploration,0
+389,All,Surgery,0,Youth,0,Finance,0,Exploration,0
+390,All,Surveillance,0,Youth,0,Finance,0,Exploration,0
+391,All,Sustainability,86615034,AI,86615034,Men,56676401,Environment,50762451
+392,All,Synthetic biology,12808176,Science,12808176,Biology,12808176,Innovation,11638599
+393,All,Syria,0,Youth,0,Finance,0,Exploration,0
+394,All,Teaching,122359952,Education,107344049,Children,88595263,Culture,63955049
+395,All,Technology,997879907,Science,327664057,Design,321953058,AI,246524694
+396,All,TED Books,0,Youth,0,Finance,0,Exploration,0
+397,All,TED en Espa\'f1ol,0,Youth,0,Finance,0,Exploration,0
+398,All,TED Fellows,0,Youth,0,Finance,0,Exploration,0
+399,All,TED Prize,0,Youth,0,Finance,0,Exploration,0
+400,All,TED Residency,0,Youth,0,Finance,0,Exploration,0
+401,All,TED-Ed,0,Youth,0,Finance,0,Exploration,0
+402,All,TEDMED,0,Youth,0,Finance,0,Exploration,0
+403,All,TEDNYC,0,Youth,0,Finance,0,Exploration,0
+404,All,TEDx,0,Youth,0,Finance,0,Exploration,0
+405,All,TEDYouth,0,Youth,0,Finance,0,Exploration,0
+406,All,Telecom,8055896,Technology,5999507,Communication,4190048,Design,3570410
+407,All,Telescopes,678069,Discovery,678069,Universe,678069,Astronomy,678069
+408,All,Television,8173022,Person,5291738,Personal growth,5291738,Motivation,4839298
+409,All,Terrorism,40090231,Global issues,22993832,Violence,19994776,War,16136486
+410,All,Theater,16047583,Performance,11894262,AI,9558020,Men,9558020
+411,All,Time,61350292,Work,31949174,AI,22250934,Science,21871710
+412,All,Toy,21583328,AI,9709350,Entertainment,9709350,Men,9709350
+413,All,Trafficking,8327874,Global issues,7286486,Men,6779152,Women,5332937
+414,All,Transgender,1073649,Beauty,1073649,Social change,1073649,Art,1073649
+415,All,Transportation,43993586,Technology,21277409,Design,17374334,Business,14566466
+416,All,Travel,15783566,Culture,6761591,Happiness,5565086,Photography,3893442
+417,All,Trees,12748404,Nature,9252532,Environment,9049224,Men,9049224
+418,All,Trust,4545518,Collaboration,4545518,Communication,2915384,Innovation,2882942
+419,All,Typography,5742850,Design,5742850,Art,2834049,Happiness,2209581
+420,All,United States,0,Youth,0,Finance,0,Exploration,0
+421,All,Universe,83065179,Science,63980114,Physics,41287657,Exploration,37605217
+422,All,Urban,29458403,Urban planning,26242022,Design,19939694,Cities,18551939
+423,All,Urban planning,26242022,Urban,26242022,Design,19939694,Cities,18551939
+424,All,Vaccines,0,Youth,0,Finance,0,Exploration,0
+425,All,Violence,83172627,Global issues,35567292,War,33968612,Men,33281275
+426,All,Violin,6965471,Performance,6965471,Music,6965471,AI,5946786
+427,All,Virtual reality,19971985,Technology,15391130,Collaboration,11037131,Visualizations,8297432
+428,All,Virus,11818512,Technology,7556714,Science,6372380,Health,6046110
+429,All,Visualizations,142657652,Men,51343394,Art,48739484,Science,47282006
+430,All,Vocals,7151378,Music,4375427,Performance,4375427,Singer,2979391
+431,All,Vulnerability,4599032,Communication,4599032,Humanity,3049102,Relationships,2760195
+432,All,War,172946544,Global issues,67998161,Software,63884131,Technology,61019367
+433,All,Water,43110627,Men,28224052,Environment,23898346,Science,21391514
+434,All,Weather,13482741,Science,8166926,Nature,6376550,Climate change,6190564
+435,All,Web,50522364,Technology,33800954,Communication,18261893,Men,16868147
+436,All,Wikipedia,6572718,Collaboration,5149725,Technology,4949889,Culture,3652136
+437,All,Wind energy,5182588,Energy,5182588,Environment,4728229,Men,4728229
+438,All,Women,183839835,Men,183839835,Global issues,53376371,Business,51703765
+439,All,Women in business,48785018,Business,48785018,Women,48785018,Men,48785018
+440,All,Work,241215147,Business,130091116,AI,89391777,Men,79228350
+441,All,Work-life balance,47756990,Life,47756990,Work,47756990,Happiness,29759663
+442,All,World cultures,26724307,Culture,26724307,Global issues,11667103,Men,8478992
+443,All,Writing,143910546,Culture,71529196,Men,53581372,AI,53040471
+444,All,Wunderkind,12847713,Men,11009748,AI,11009748,Music,11009748
+445,All,Youth,69775188,AI,25859717,Education,21959758,Science,20056388

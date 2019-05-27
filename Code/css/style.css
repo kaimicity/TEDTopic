@@ -1,0 +1,92 @@
+#value-time {
+	color: white;
+	font-size: 2vw;
+}
+#slider-time text{
+	writing-mode: tb-rl;
+}
+#info{
+	font-size:20px;
+  border-radius: 14px;  
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: "Hoefler Text";
+  
+}
+#infos{
+	position: absolute;	
+	/* border:3px solid white; */
+	overflow: scroll;
+	background: black;
+	z-index: 100000;
+	display: none;
+	padding: 10px;
+}
+
+#infos p{
+	color:white;
+	font-size:14px;
+}
+.container {
+	padding: 0;
+}
+
+.filter {
+	text-align: left;
+	padding: 0px;
+}
+
+.head_emph {
+	color: red;
+	font-size: 3vw;
+}
+
+.row align-items-center {
+	margin-top: -30px;
+}
+
+.head {
+	color: white;
+}
+
+#videos {
+	overflow: scroll;
+
+}
+
+
+.form-group {
+
+	width: 100%;
+	background-color: rgba(0,0,0,0.4);
+	border-radius:15px 15px 15px 15px;
+}
+
+.list {
+	color: white;
+	/* background-color: rgba(176,226,255,0.3); */
+	background-color: rgba(0,0,0,0.3);
+	/* border-radius:15px 15px 15px 15px; */
+	/* opacity: 0.4; */
+}
+
+.label {
+	color: white;
+	font-size: 15px;
+}
+
+#lolipop{
+	margin-bottom: 0.5vw;
+}
+.tooltip{
+    position:absolute;
+    padding:5px;
+    width:120;
+    height:auto;
+    font-family:simsun;
+    font-size:14px;
+    color:black;
+    background-color: rgb(255,255,255);
+    border-width: 2px solid rgb(255,255,255);
+    border-radius:5px;
+}

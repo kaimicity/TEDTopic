@@ -1,0 +1,124 @@
+{
+    "RECORDS": [
+        {
+            "f1": "249",
+            "year1": "All",
+            "tag_name": "Men",
+            "views": "1205476516",
+            "related_topic1": "AI",
+            "view_of_topic1": "718031577",
+            "related_topic2": "Entertainment",
+            "view_of_topic2": "557977309",
+            "related_topic3": "Culture",
+            "view_of_topic3": "305233244"
+        },
+        {
+            "f1": "7",
+            "year1": "All",
+            "tag_name": "AI",
+            "views": "1197413129",
+            "related_topic1": "Men",
+            "view_of_topic1": "718031577",
+            "related_topic2": "Entertainment",
+            "view_of_topic2": "557977309",
+            "related_topic3": "Brain",
+            "view_of_topic3": "422149858"
+        },
+        {
+            "f1": "97",
+            "year1": "All",
+            "tag_name": "Culture",
+            "views": "1140122563",
+            "related_topic1": "AI",
+            "view_of_topic1": "320117138",
+            "related_topic2": "Men",
+            "view_of_topic2": "305233244",
+            "related_topic3": "Global issues",
+            "view_of_topic3": "212282089"
+        },
+        {
+            "f1": "395",
+            "year1": "All",
+            "tag_name": "Technology",
+            "views": "997879907",
+            "related_topic1": "Science",
+            "view_of_topic1": "327664057",
+            "related_topic2": "Design",
+            "view_of_topic2": "321953058",
+            "related_topic3": "AI",
+            "view_of_topic3": "246524694"
+        },
+        {
+            "f1": "347",
+            "year1": "All",
+            "tag_name": "Science",
+            "views": "898454459",
+            "related_topic1": "AI",
+            "view_of_topic1": "371763508",
+            "related_topic2": "Technology",
+            "view_of_topic2": "327664057",
+            "related_topic3": "Brain",
+            "view_of_topic3": "260140825"
+        },
+        {
+            "f1": "59",
+            "year1": "All",
+            "tag_name": "Business",
+            "views": "713495114",
+            "related_topic1": "AI",
+            "view_of_topic1": "248977407",
+            "related_topic2": "Men",
+            "view_of_topic2": "207853061",
+            "related_topic3": "Culture",
+            "view_of_topic3": "183516114"
+        },
+        {
+            "f1": "172",
+            "year1": "All",
+            "tag_name": "Global issues",
+            "views": "606574639",
+            "related_topic1": "Culture",
+            "view_of_topic1": "212282089",
+            "related_topic2": "Men",
+            "view_of_topic2": "202168773",
+            "related_topic3": "Politics",
+            "view_of_topic3": "123557070"
+        },
+        {
+            "f1": "109",
+            "year1": "All",
+            "tag_name": "Design",
+            "views": "570010651",
+            "related_topic1": "Technology",
+            "view_of_topic1": "321953058",
+            "related_topic2": "AI",
+            "view_of_topic2": "155557533",
+            "related_topic3": "Men",
+            "view_of_topic3": "146230456"
+        },
+        {
+            "f1": "131",
+            "year1": "All",
+            "tag_name": "Entertainment",
+            "views": "557977309",
+            "related_topic1": "Men",
+            "view_of_topic1": "557977309",
+            "related_topic2": "AI",
+            "view_of_topic2": "557977309",
+            "related_topic3": "Culture",
+            "view_of_topic3": "165744588"
+        },
+        {
+            "f1": "184",
+            "year1": "All",
+            "tag_name": "Health",
+            "views": "516073368",
+            "related_topic1": "Men",
+            "view_of_topic1": "244221855",
+            "related_topic2": "Science",
+            "view_of_topic2": "224762107",
+            "related_topic3": "Mental health",
+            "view_of_topic3": "174256218"
+        }
+    ]
+}
